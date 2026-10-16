@@ -45,15 +45,15 @@
     "babel-loader": "^8.0.0",
     "clean-webpack-plugin": "^0.1.19",
     "coveralls": "^3.0.2",
-    "jest": "^23.5.0",
+    "jest": "^30.5.2",
     "nock-exec": "^0.1.0",
     "nyc": "^13.0.1",
     "prettier": "^1.14.2",
-    "release-it": "^7.6.0",
+    "release-it": "^21.1.1",
     "ts-jest": "^23.1.4",
     "tslint": "^5.11.0",
     "typescript": "^3.0.1",
-    "webpack": "^4.17.1",
+    "webpack": "^5.112.0",
     "webpack-cli": "^3.1.0"
   },
   "dependencies": {
